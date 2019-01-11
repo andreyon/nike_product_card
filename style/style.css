@@ -163,3 +163,19 @@ p {
 .product-card-info__size li:first-child {
   margin-left: 0;
 }
+
+.prpduct-card__images {
+  position: absolute;
+  bottom: 25px;
+  left: 175px;
+}
+
+.prpduct-card__images img {
+  margin-right: 18px;
+}
+
+.prpduct-card__btn-add {
+  position: absolute;
+  bottom: 72px;
+  right: 272px;
+}
